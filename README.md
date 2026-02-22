@@ -39,6 +39,13 @@ Advanced ROS 2 concepts:
 - **Actions**: Implementing action servers
 - **URDF/Xacro**: Robot description formats
 
+### [3. Class 3 Exercises](3_class_3_exercises/3_class_3_exercises.md)
+Simulation and autonomous control concepts:
+- **Gazebo fundamentals**: Worlds, models, plugins, and simulation runtime
+- **Gazebo transport**: Inspecting topics/services and scene state
+- **ROS-Gazebo Integration**: Bridging with `ros_gz_bridge`
+- **Model spawning**: Creating entities with `ros_gz_sim/create`
+
 ## Additional Resources
 
 - [ROS 2 Documentation](https://docs.ros.org/en/jazzy/)
