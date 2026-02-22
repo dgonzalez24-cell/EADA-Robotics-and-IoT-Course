@@ -46,6 +46,9 @@ Simulation and autonomous control concepts:
 - **ROS-Gazebo Integration**: Bridging with `ros_gz_bridge`
 - **Model spawning**: Creating entities with `ros_gz_sim/create`
 
+### [4. Final Project](final_project/FINAL_PROJECT.md)
+Capstone project for the course.
+
 ## Additional Resources
 
 - [ROS 2 Documentation](https://docs.ros.org/en/jazzy/)
