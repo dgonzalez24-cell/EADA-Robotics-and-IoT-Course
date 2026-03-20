@@ -24,10 +24,12 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'fsm_robot = robot_description.fsm_robot:main',
             'move_and_scan = robot_description.move_and_scan:main',
             'move_and_imu = robot_description.move_and_imu:main',
             'move_and_imu_odom = robot_description.move_and_imu_odom:main',
             'red_object_detector = robot_description.red_object_detector:main',
+            'fsm_robot = robot_description.fsm_robot:main',
         ],
     },
 )
